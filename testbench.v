@@ -23,8 +23,7 @@
 `define CYCLEA 20  
 `define CYCLEB 40 
 `include "../../sources_1/new/define.v"
-//`include "D:/guoj/vivado/ahb_slv_if_test/ahb_slv_if_test.srcs/sources_1/new/define.v"
-//"D:\guoj\vivado\ahb_slv_if_test\ahb_slv_if_test.srcs\sim_1\new"
+
 module testbench(
 
     );
